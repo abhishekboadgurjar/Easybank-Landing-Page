@@ -44,7 +44,7 @@ The project is organized into the following components:
 To get started with this project, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/abhishekboadgurjar/Easybank-Landing-Page
+git clone https://github.com/abhishekgurjarin/Easybank-Landing-Page
 cd easybank-landing-page
 npm install
 ```
@@ -84,4 +84,4 @@ Creating a landing page with React allows for the development of a modular and m
 
 **Author**
 
-**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekboadgurjar).
+**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekgurjarin).
